@@ -1,0 +1,14 @@
+# sobre min 
+
+#
+
+- 👋 olá, meu nome é  @Herberson00
+- :+1: meu e-mail de contato é @
+- 👀 eu estou interessado em aprender a programar novas línguas 
+- 🌱 eu estou aprendendo recentemente a programar linguagens de Java Script e scrath
+- 
+
+<!---
+Herberson00/Herberson00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
